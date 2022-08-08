@@ -1,0 +1,14 @@
+.header-section{
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    background-color: beige;
+}
+
+body{
+    background-color: beige;
+}
+
+.image-section{
+    justify-content: center;
+    text-align: center;
+}

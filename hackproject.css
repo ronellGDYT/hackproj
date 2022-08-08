@@ -15,11 +15,31 @@
     text-align: center;
 }
 
+.big-card{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    column-gap: 50px;
+}
+
 .alert-danger{
     text-align: center;
     justify-content: center;
 }
 
 .card1{
+    justify-content: left;
 
+}
+
+.card2{
+    justify-content: center;
+}
+
+.card3{
+    justify-content: end;
+}
+
+body{
+    background-color: beige;
 }
