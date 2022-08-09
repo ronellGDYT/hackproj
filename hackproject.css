@@ -46,6 +46,12 @@ width: 100vw;
 
 }
 
+.why-section{
+    font-family: 'Bebas Neue', cursive;
+    word-wrap: break-word;
+    text-align:center;
+}
+
 .card2{
     justify-content: center;
 }
