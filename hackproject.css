@@ -1,4 +1,6 @@
 .navbar-section{
+    font-family: 'Bebas Neue', cursive;
+width: 100vw;
 
 }
 
@@ -13,6 +15,17 @@
 
 .contact-section{
     text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.opening-text{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.opening-section{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .big-card{
@@ -20,6 +33,7 @@
     width: 100vw;
     justify-content: center;
     column-gap: 50px;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .alert-danger{
@@ -38,6 +52,16 @@
 
 .card3{
     justify-content: end;
+}
+
+.food-pantry{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.add-resource{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
 }
 
 body{

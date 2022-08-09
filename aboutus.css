@@ -12,3 +12,13 @@ body{
     justify-content: center;
     text-align: center;
 }
+
+.top-section{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive; 
+    text-size-adjust: 300px;
+}
+
+.logo{
+    text-align: center;
+}
